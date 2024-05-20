@@ -1,6 +1,6 @@
 /*!
  *  @file       AciduinoV2.ino
- *  Project     Aciduino V2 (JJC mod)
+ *  Project     Aciduino V2 BeatPort
  *  @brief      Roland 303 and 808 step sequencer clone
  *  @version    2.0.0
  *  @author     Romulo Silva
