@@ -1,6 +1,6 @@
 /*!
  *  @file       AciduinoV2.ino
- *  Project     Aciduino V2
+ *  Project     Aciduino V2 BeatPort
  *  @brief      Roland 303 and 808 step sequencer clone
  *  @version    2.0.0
  *  @author     Romulo Silva
@@ -46,9 +46,9 @@
 //#include "src/ports/avr/mega.h"
 //#include "src/ports/teensy/protoboard.h"
 //#include "src/ports/esp32/wroom.h"
-#include "src/ports/esp32/wroom-ext1.h"
+//#include "src/ports/esp32/wroom-ext1.h"
 //#include "src/ports/teensy/uone.h"
-//#include "src/ports/avr/midilab_mega.h"
+#include "src/ports/avr/midilab_mega.h"
 
 // globals
 bool _playing = false;
