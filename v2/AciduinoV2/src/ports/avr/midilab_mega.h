@@ -16,7 +16,7 @@
 
 //#define USE_POT_MICRO
 
-//#define FLIP_DISPLAY
+#define FLIP_DISPLAY
 //#define INVERT_POT_READ
 
 #define USE_MIDI1
