@@ -217,7 +217,7 @@ void initPort()
   uCtrl.page->setPage(0);
 
   // sequencer parameters could be initialized here?
-  // how many 303 tracks? 808 tracks? 
+  // how many 303 tracks? 808 tracks?
   aciduino.init();
 }
 
